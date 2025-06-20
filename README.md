@@ -1,6 +1,6 @@
-# Biman721443
+# Roshankumar056
 
-<h1 align="center">Hi 👋, I'm Biman Gharai</h1>
+<h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
 
 <div align="center">
   <img
@@ -19,7 +19,7 @@
   </a>
 </div>
 
-<h3 align="center">An aspiring rFontend Engineer</h3>
+<h3 align="center">An aspiring a Full-Stack Developer</h3>
 
 <div align="center">
   <img
@@ -43,7 +43,7 @@
 
 <p>
   🔭 I’m currently exploring and polishing my skills 🌍 I'm basically from
-  Contai, West Bengal, India
+  Bokaro,Jharkhand, India
 </p>
 
 <!-- <p>
@@ -57,23 +57,23 @@
 
 <p>
   👀 My Github Repositories -
-  <a href="https://github.com/Biman721443?tab=repositories" target="_blank">[Click here]</a>
+  <a href="https://github.com/Roshankumar056?tab=repositories" target="_blank">[Click here]</a>
 </p>
 <p>
   🚀 I have learned couple of skills in Tech like React, Redux, JavaScript, HTML, CSS
   libraries like Chakra UI, Bootstrap & styled-components and skills in Customer service skills like communication, Troubleshooting, Patience, Actice listening. And in soft skills like Adaptability, Problem-solving, Attention to detail, Team work.
 </p>
-<p>📧 Email - bimangharai721443@gmail.com</p>
+<p>📧 Email - roshankr056@gmail.com</p>
 <p>
   📄 Know about my skills [Resume] -
   <a
-    href="https://drive.google.com/file/d/1_gN5MlMT9q-nueQtxZZdbbegfT54tnm9/view?usp=share_link" target="_blank"
+    href="https://drive.google.com/file/d/1yT97fU9fBrC77mTY_klTFy4APJInSqgF/view?usp=sharing" target="_blank"
     >[Click here]</a
   >
 </p>
 <p>
   My LinkedIn profile -
-  <a href="https://www.linkedin.com/in/biman-gharai-236320226/" target="_blank">[Click here]</a>
+  <a href="https://www.linkedin.com/in/roshan-kumar056/" target="_blank">[Click here]</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
