@@ -21,23 +21,9 @@
 
 <h3 align="center">An aspiring a Full-Stack Developer</h3>
 
-<div align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=sathyaPrasad650&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Biman721443"
-  />
-</div>
 
-<h3 align="left">Git profile Trophies:</h3>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Biman721443"
-      alt="sathyaPrasad650"
-    />
-  </a>
-</div>
+
 
 <br />
 
@@ -52,7 +38,7 @@
 </p> -->
 
 <p>
-  👨‍💻 My Portfilio -<a href="https://biman721443.github.io/" target="_blank">[Click here]</a>
+  👨‍💻 My Portfilio -<a href="https://roshanwebsite.netlify.app/" target="_blank">[Click here]</a>
 </p>
 
 <p>
@@ -87,24 +73,19 @@
 ![vscode](https://img.shields.io/badge/vscode-%230078ff.svg?style=for-the-badge&logo=visualstudiocode&logoColor=%black) 
 ![NPM](https://img.shields.io/badge/npm-%23be3535.svg?style=for-the-badge&logo=npm&logoColor=%blue) 
 ![Gitbash](https://img.shields.io/badge/git-%23f27e42.svg?style=for-the-badge&logo=git&logoColor=%blue) 
-![Redux](https://img.shields.io/badge/redux-%236e71cc.svg?style=for-the-badge&logo=redux&logoColor=%blue) 
-![Replit](https://img.shields.io/badge/replit-%23323330.svg?style=for-the-badge&logo=replit&logoColor=%blue) 
+![Redux](https://img.shields.io/badge/redux-%236e71cc.svg?style=for-the-badge&logo=redux&logoColor=%blue)  
 ![ChakraUI](https://img.shields.io/badge/chakraui-%2392e4e6.svg?style=for-the-badge&logo=chakraui&logoColor=%blue) 
 ![BootStrap](https://img.shields.io/badge/bootstrap-%23d1b3ff.svg?style=for-the-badge&logo=bootstrap&logoColor=%blue) 
 ![ReactJS](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%green) 
-![Linux](https://img.shields.io/badge/linux-%23ffffff.svg?style=for-the-badge&logo=linux&logoColor=%white) 
 ![PostMan](https://img.shields.io/badge/postman-%23ffa468.svg?style=for-the-badge&logo=postman&logoColor=%green) 
 ![ShellScript](https://img.shields.io/badge/shellscript-%23323330.svg?style=for-the-badge&logo=shellscript&logoColor=%white) 
 ![MySQL](https://img.shields.io/badge/mysql-%230078ff.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-orange?style=for-the-badge&logo=MongoDB5&logoColor=white)
-![Networking](https://img.shields.io/badge/-Networking-blue?style=for-the-badge&logo=NetworkingDB5&logoColor=white)
-![Operating System](https://img.shields.io/badge/-operating%20system%20-lightgrey?style=for-the-badge&logo=OperatingSystemDB5&logoColor=white)
 <!--  -->
 
 # 📞 Customer Service Skills:
@@ -123,8 +104,3 @@
 ![Team Work](https://img.shields.io/badge/teamwork-%231f1e1f.svg?style=for-the-badge&logo=teamwork&logoColor=%red) 
 <!--  -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biman721443&show_icons=true&locale=en&layout=compact" alt="biman721443" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biman721443&show_icons=true&locale=en" alt="biman721443" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biman721443&" alt="biman721443" /></p>
